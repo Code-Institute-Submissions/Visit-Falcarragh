@@ -25,6 +25,8 @@ h1,h2 {
     padding: 1em 0 0.75em;
 }
 
+/* Positioning of Logo and tekst */
+
 #logo img {
     float:left;
     height: 60px;
@@ -37,4 +39,23 @@ h1,h2 {
     font-size:150%;
     padding: 0.5em;
     line-height: 40px;
+}
+
+/* Navigation Menu */
+
+nav {
+    float: right;
+    line-height: 40px;
+    font-size: 120%;
+}
+
+nav li {
+    float:left;
+    list-style-type: none;
+    margin-left: 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color:#115500;
 }
