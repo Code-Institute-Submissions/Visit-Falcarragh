@@ -12,6 +12,7 @@ body {
     font-family: Arimo,sans-serif;
     font: weight 300px;
     color: #202020;
+    background-image: linear-gradient(to bottom right,green, yellow);
 }
 
 /* Heading Styling */
@@ -24,6 +25,16 @@ h1,h2 {
     text-align: center;
     padding: 1em 0 0.75em;
 }
+
+/* Header */
+
+header {
+    padding: 1em;
+    overflow: hidden;
+    z-index: 1;
+    background-image: linear-gradient(green, yellow);
+}
+
 
 /* Positioning of Logo and tekst */
 
@@ -94,6 +105,12 @@ nav a {
 }
 
 /* Gallery */
+
+#gallery-intro {
+    display:flex;
+    justify-content: center;
+}
+
 
 #pictures {
     clear:both;
