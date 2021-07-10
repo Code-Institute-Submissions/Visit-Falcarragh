@@ -19,7 +19,7 @@ body {
 h1,h2 {
     font-family: arimo, helvetica;
     text-transform: uppercase;
-    font-size: 125%;  
+    font-size: 150%;  
     letter-spacing: 0.1em;
     text-align: center;
     padding: 1em 0 0.75em;
@@ -65,4 +65,17 @@ nav a {
 #Homepage-Hero-Image {
     height:50%;
     width:100%;
+    object-fit: contain;
 }
+
+/* Welcome Section */
+
+#welcome-container {
+
+        margin: auto;
+        width: 75%;
+        padding: 10px;
+        font-size: 150%;
+}
+
+
