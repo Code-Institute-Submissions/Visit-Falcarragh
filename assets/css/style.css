@@ -78,4 +78,19 @@ nav a {
         font-size: 150%;
 }
 
+/* History-Section */
+
+#history-container {
+
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+    font-size: 150%;
+}
+
+#sourcewiki {
+    font-size: 75%;
+    text-decoration: none;
+}
+
 
