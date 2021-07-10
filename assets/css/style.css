@@ -93,6 +93,19 @@ nav a {
     text-decoration: none;
 }
 
+/* Gallery */
+
+#pictures {
+    clear:both;
+    line-height:0;
+    column-count: 4;
+    column-gap: 2px;
+}
+
+#pictures > img {
+    width:100%
+}
+
  /* Footer */
 
  footer {
