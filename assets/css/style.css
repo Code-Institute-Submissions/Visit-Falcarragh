@@ -4,7 +4,7 @@
 * {
     margin: 0;
     padding: 0;
-    border:none;
+    border:0;
     box-sizing: border-box;
 }
 
@@ -12,4 +12,29 @@ body {
     font-family: Arimo,sans-serif;
     font: weight 300px;
     color: #202020;
+}
+
+/* Heading Styling */
+
+h1,h2 {
+    font-family: arimo, helvetica;
+    text-transform: uppercase;
+    font-size: 125%;  
+    letter-spacing: 0.1em;
+    text-align: center;
+    padding: 1em 0 0.75em;
+}
+
+#logo img {
+    float:left;
+    height: 60px;
+    padding-right: 0.25em;
+    padding-left: 0.25em;
+}
+
+#logo h1 {
+    float:left;
+    font-size:150%;
+    padding: 0.5em;
+    line-height: 40px;
 }
