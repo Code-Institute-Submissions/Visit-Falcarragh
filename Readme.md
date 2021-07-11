@@ -66,7 +66,20 @@ The Footer section is visable on all pages and encourages users to get in touch.
 
 ##Credits
 
+###Content
 
+- Icons that are used for the footer are taken from [Fonts Awesome](https://fontawesome.com/)
+- Text and Font is being used from Google Fonts [Google Fonts](https://fonts.google.com/)
+- Instructions and help with CSS [W3 Schools](https://www.w3schools.com/css/) & 
+[Stackoverflow](https://stackoverflow.com/)
+- Inspiration on Menu Structure was used from [Love Running Project](https://learn.codeinstitute.net/)
+
+
+###Media
+
+- Video with footage of Falcarragh [Footage Falcarragh](https://youtu.be/FBJazLj08eY)
+
+- Video with History of Falcarragh [History Falcarragh](https://youtu.be/9n-uLTtggYg)
 
 
 
