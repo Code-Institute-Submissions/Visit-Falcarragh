@@ -209,3 +209,37 @@ input[type=submit] {
     color: white;
     font-size: 130%;
 }
+
+/* Media Query's */
+
+/* Gallery */
+
+@media screen and (max-width: 750px) {
+    #pictures {
+    clear:both;
+    line-height:0;
+    column-count: 3;
+    column-gap: 2px;
+    }
+
+/* Form mobile */
+
+    form {
+        float: none;
+        width: 100%;
+        margin-bottom: 2em;
+    }
+}
+
+/* Nav menu <340px */
+
+@media screen and (max-width: 340px) {
+    nav {
+    font-size: 100%;
+    float: left;
+    line-height: 30px;
+}
+}
+
+
+
