@@ -89,6 +89,18 @@ nav a {
         font-size: 150%;
 }
 
+.iframe-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;   
+}
+
+.iframe-responsive {
+    padding: 10px;
+}
+
+
 /* History-Section */
 
 #history-container {
