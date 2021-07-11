@@ -231,7 +231,7 @@ input[type=submit] {
     }
 }
 
-/* Nav menu <340px */
+/* Nav menu and footer <340px */
 
 @media screen and (max-width: 340px) {
     nav {
