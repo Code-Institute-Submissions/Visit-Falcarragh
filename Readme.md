@@ -13,7 +13,7 @@
 
 	- The navigation bar is featured the pages "Home", "Gallery" and "Contact". The history navigation option links to the "History-Container" element which can be found on the homepage. This section allows the user to navigate the webpage easily because the navigation menu is identical across devices. The layout and position of the menu also prevents that user needs to use the "Back" button in the browser.
 
-(Image navigation menu)	
+![Navigation Menu](https://github.com/Markp1312/Visit-Falcarragh/blob/main/assets/images/navbar.jpg "Navigation Menu")
 
 - __Home Page__
 
