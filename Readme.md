@@ -20,6 +20,9 @@
 	- The homepage gives information on why I have chosen to construct this website. This page shares some background information about myself and the village of Falcarragh in County Donegal with the end-user.
 It contains a video about the village and the area that gives the end-user a good impressions and it also features a video with historical footage.
 
+
+![Homepage](https://github.com/Markp1312/Visit-Falcarragh/blob/main/assets/images/homepage.jpg "Homepage")
+
 - __History__
 
 	- The history section can be found on the homepage.
@@ -40,6 +43,8 @@ The Footer section is visable on all pages and encourages users to get in touch.
 
 	- The contact page contains a form where users can submit questions that they might have after visiting the webpage. The form will send a direct e-mail to me.
 
+![Contact Form](https://github.com/Markp1312/Visit-Falcarragh/blob/main/assets/images/form.jpg "Contact Form")
+
 ## Testing
 
 ### Validation Testing:
@@ -47,6 +52,8 @@ The Footer section is visable on all pages and encourages users to get in touch.
 - __HTML__ - No errors are being returned when passing through the W3C HTML validator: 
 [W3C Official Validation Tool](https://validator.w3.org/ "W3C Validator") & [My GitHub Pages](https://github.com/Markp1312/Visit-Falcarragh/blob/main "Mark's GitHub Repo") 
 
+The following warning is showing but I have decided to not add text to the Hero Section.
+![warning](https://github.com/Markp1312/Visit-Falcarragh/blob/main/assets/images/warning.jpg "HTML Warning")
 
 - __CSS__ - No errors are shown when checking CSS file through Jigsaw Validation Tool.
 [Jigsaw Official Validation Tool](https://jigsaw.w3.org/css-validator/ "CSS Validator") & [My GitHub Pages](https://github.com/Markp1312/Visit-Falcarragh/blob/main "Mark's GitHub Repo")
