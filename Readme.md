@@ -1,13 +1,13 @@
 # Visit Falcarragh
 
-##Introduction
+## Introduction
 
-###Visit Falcarragh is a website that is designed to give more information about the local area for people who are considering spending holidays in Falcarragh.
+### Visit Falcarragh is a website that is designed to give more information about the local area for people who are considering spending holidays in Falcarragh.
 
 
-##Features
+## Features
 
-###Existing Features
+### Existing Features
 
 - __Navigation Bar__
 
@@ -40,9 +40,9 @@ The Footer section is visable on all pages and encourages users to get in touch.
 
 	- The contact page contains a form where users can submit questions that they might have after visiting the webpage. The form will send a direct e-mail to me.
 
-##Testing
+## Testing
 
-###Validation Testing:
+### Validation Testing:
  
 - __HTML__ - No errors are being returned when passing through the W3C HTML validator: 
 [W3C Official Validation Tool](https://validator.w3.org/ "W3C Validator") & [My GitHub Pages](https://github.com/Markp1312/Visit-Falcarragh/blob/main "Mark's GitHub Repo") 
@@ -54,9 +54,9 @@ The Footer section is visable on all pages and encourages users to get in touch.
 - __Wave Accessibility__ - No errors are shown when checking accessibility through Wave Validation Tool.
 [Wave Official Validation Tool](https://wave.webaim.org/ "Accessibility Report") & [My GitHub Pages](https://github.com/Markp1312/Visit-Falcarragh/blob/main "Mark's GitHub Repo")
 
-##Deployment
+## Deployment
 
-###I have deployed my project by using the following steps:
+### I have deployed my project by using the following steps:
 
 1. In the GitHub Repository, navigate to settings.
 2. Select pages in the left column.
@@ -64,9 +64,9 @@ The Footer section is visable on all pages and encourages users to get in touch.
 4. Once this has been selected, a lint will appear that shows that you webpage has been deployed.
 5. The link to the webpage can be found here: [Visit Falcarragh](https://markp1312.github.io/Visit-Falcarragh/)
 
-##Credits
+## Credits
 
-###Content
+### Content
 
 - Icons that are used for the footer are taken from [Fonts Awesome](https://fontawesome.com/)
 - Text and Font is being used from Google Fonts [Google Fonts](https://fonts.google.com/)
@@ -75,7 +75,7 @@ The Footer section is visable on all pages and encourages users to get in touch.
 - Inspiration on Menu Structure was used from [Love Running Project](https://learn.codeinstitute.net/)
 
 
-###Media
+### Media
 
 - Video with footage of Falcarragh [Footage Falcarragh](https://youtu.be/FBJazLj08eY)
 
