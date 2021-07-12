@@ -43,7 +43,7 @@ The Footer section is visable on all pages and encourages users to get in touch.
 
 	- The contact page contains a form where users can submit questions that they might have after visiting the webpage. The form will send a direct e-mail to me.
 
-![Contact Form](https://github.com/Markp1312/Visit-Falcarragh/blob/main/assets/images/form.jpg "Contact Form")
+![Contact Form](https://github.com/Markp1312/Visit-Falcarragh/blob/main/assets/images/Form.jpg "Contact Form")
 
 ## Testing
 
